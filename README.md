@@ -1,155 +1,62 @@
 <div align="center">
 
-```
- _   _ _____ __  ___   ___  _  _ ___ _  _   _  _ _____ ____  __  ___   ___  _   
-| |_| |_   _|  \/  | / _ \ | \| / __| || | | \| |_   _|  _ \|  \/  | / _ \ | |  
-|  _  | | | | |\/| ||  _  || .` \__ \ __ | | .` | | | |  _ <| |\/| ||  _  || |___
-|_| |_| |_| |_|  |_||_| |_||_|\_|___/_||_| |_|\_| |_| |_| \_\_|  |_||_| |_||_____|
-```
+# Hi, I'm Himanshu Nirmal 👋
 
-### **SOFTWARE ENGINEER · BACKEND / AI / SYSTEMS**
+**Software Engineer · Backend / AI / Full Stack**  
+*Building resilient backend architectures, AI agent workflows, and responsive full-stack applications.*
 
-> *Building systems to understand them.*
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-ivory-one-6hmx89xc5f.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshunirmal)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalhimanshu1505@gmail.com)
 
 </div>
 
-I approach engineering by understanding how systems work under load, where abstractions break down, and what happens when the obvious solution isn't enough.
+---
+
+### 👨‍💻 About Me
+
+- 💼 **Currently:** Software Developer at **[JadeQuest Solutions](https://jadequest.com/)**
+- 🛠️ **Core Focus:** High-throughput backend systems (FastAPI, NestJS, Node.js), AI/LLM agent pipelines (LangGraph, RAG, ChromaDB), and scalable databases (PostgreSQL, MongoDB, Prisma).
+- 🚀 **Passionate about:** Decoupled event-driven architectures, clean APIs, and automating complex business workflows with AI.
+- 📄 **Resume:** [View / Download PDF](https://portfolio-ivory-one-6hmx89xc5f.vercel.app/Himanshu_Nirmal.pdf)
 
 ---
 
-### ◈ SYSTEM STATUS
+### 💼 Experience
 
-```sys
-[STATUS]        ONLINE
-[LOCATION]      INDIA
-[PRIMARY FOCUS] BACKEND ARCHITECTURE · AI SYSTEMS · DISTRIBUTED INFRASTRUCTURE
-[BUILDING]      LANGGRAPH DESKTOP AGENTS & RAG PIPELINES
-[LEARNING]      DISTRIBUTED SYSTEMS & LOCAL INFERENCE
-[CURRENT]       2026
-```
+#### **Software Developer** — [JadeQuest Solutions](https://jadequest.com/) *(Current)*
+- Architect and develop scalable backend APIs, database schemas, and microservices for production client solutions.
+- Integrate AI workflow automation and custom LLM toolchains to eliminate manual operational bottlenecks.
+- Build clean, responsive user interfaces with Next.js, React, and TypeScript.
 
 ---
 
-### ◈ CURRENTLY EXPLORING
+### 🚀 Featured Projects
 
-* **AI Engineering & Agent OS** — LangGraph desktop agents, cross-platform signal extraction, RAG retrieval quality across statutory codes.
-* **Backend Architecture** — High-concurrency gateways, API design, event streaming, PostgreSQL Row-Level Security isolation patterns.
-* **Full-Stack & Real-Time** — Socket.io bidirectional channels, Prisma ORM transaction optimization, Redux Toolkit state slices.
-* **System Integration** — OAuth2 token management, multi-platform webhook brokers (Gmail, Slack, Notion, Jira).
-
----
-
-### ◈ SELECTED SYSTEMS & CASE FILES
-
-```text
-CASE-001 | HIREON
-AI-Powered Interview Evaluation Platform
-Decoupled real-time conversational audio streaming from asynchronous candidate evaluation pipelines to achieve sub-500ms turn latency.
-Technologies : FastAPI · Python · React · TypeScript · PostgreSQL · LLM APIs · WebSockets
-Links        : [Repository](https://github.com/HimanshuMNirmal/hireon)
-```
-
-```text
-CASE-002 | SUPPLYX
-Enterprise Multi-Tenant Supply Chain Platform
-Enforced strict multi-tenant data isolation at the PostgreSQL database level using Row-Level Security (RLS) driven by JWT claims.
-Technologies : NestJS · GraphQL · TypeScript · React Native · PostgreSQL · Prisma · Docker
-Links        : [Repository](https://github.com/HimanshuMNirmal/SupplyXFinal.git)
-```
-
-```text
-CASE-003 | ORCHESTRIX
-LangGraph Desktop Agent OS & Productivity Orchestrator
-Desktop agent OS that connects Gmail, Slack, Notion, and Jira to automate task extraction and workflow execution via graph state machines.
-Technologies : LangGraph · Python · Gmail API · Slack API · Notion API · Jira API · OAuth2
-Links        : [Repository](https://github.com/HimanshuMNirmal/Orchestrix.git)
-```
-
-```text
-CASE-004 | NYAYGPT
-AI Legal Assistant & Statutory RAG Pipeline
-Vector search and RAG engine covering 1,968 sections across 8 Indian Legal Acts (IPC, CrPC, CPC) with zero citation hallucinations.
-Technologies : FastAPI · ChromaDB · SQLite · Sentence-Transformers · React · Vite · Tailwind CSS
-Links        : [Repository](https://github.com/HimanshuMNirmal/NyayGPT.git)
-```
-
-```text
-CASE-005 | DEVCONNECT
-Real-Time Developer Community Platform
-Developer community web app with real-time Socket.io chat, rich post sharing, comment threads, tag search, and Prisma ORM indexing.
-Technologies : React · Node.js · Express.js · PostgreSQL · Prisma ORM · Socket.io · JWT · bcrypt
-Links        : [Repository](https://github.com/HimanshuMNirmal/DevConnect.git)
-```
-
-```text
-CASE-006 | TASKHIVE
-Distributed Task Management Platform
-MERN stack team task management platform with Redux RTK predictable state, role-based access control (RBAC), and team dashboard filters.
-Technologies : React · Redux Toolkit · Node.js · Express.js · MongoDB · JWT · Axios
-Links        : [Repository](https://github.com/HimanshuMNirmal/TaskHive.git)
-```
+| Project | Description | Tech Stack | Repository |
+| :--- | :--- | :--- | :--- |
+| **[HireOn](https://github.com/HimanshuMNirmal/hireon)** | AI interview evaluation platform with sub-500ms real-time turns and async scoring. | `FastAPI` `Python` `PostgreSQL` `React` `WebSockets` | [Repo →](https://github.com/HimanshuMNirmal/hireon) |
+| **[SupplyX](https://github.com/HimanshuMNirmal/SupplyXFinal.git)** | Enterprise multi-tenant supply chain engine with PostgreSQL Row-Level Security (RLS). | `NestJS` `GraphQL` `PostgreSQL` `Prisma` `React Native` | [Repo →](https://github.com/HimanshuMNirmal/SupplyXFinal.git) |
+| **[Orchestrix](https://github.com/HimanshuMNirmal/Orchestrix.git)** | Desktop Agent OS connecting Gmail, Slack, Notion & Jira with LangGraph state machines. | `LangGraph` `Python` `OAuth2` `REST APIs` | [Repo →](https://github.com/HimanshuMNirmal/Orchestrix.git) |
+| **[NyayGPT](https://github.com/HimanshuMNirmal/NyayGPT.git)** | AI legal assistant & statutory RAG engine across 1,968 sections of Indian legal acts. | `FastAPI` `ChromaDB` `Sentence-Transformers` `React` | [Repo →](https://github.com/HimanshuMNirmal/NyayGPT.git) |
+| **[XAUUSD ETL](https://github.com/HimanshuMNirmal)** | High-throughput financial ETL pipeline processing ticks into OHLCV bars with automated backfills. | `Python` `Pandas` `PostgreSQL` `Docker` `ETL` | [Profile →](https://github.com/HimanshuMNirmal) |
+| **[DevConnect](https://github.com/HimanshuMNirmal/DevConnect.git)** | Developer community platform with real-time Socket.io chat, posts, and discussion threads. | `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.io` | [Repo →](https://github.com/HimanshuMNirmal/DevConnect.git) |
 
 ---
 
-### ◈ PROJECT PHILOSOPHY
+### 🛠️ Tech Stack & Skills
 
-I don't build projects just to collect repositories. Every system starts with a technical hypothesis.
-
-```text
-problem
-   ↓
-hypothesis
-   ↓
-system
-   ↓
-experiment
-   ↓
-failure
-   ↓
-measurement
-   ↓
-iteration
-```
+- **Languages:** JavaScript, TypeScript, Python, SQL, C++
+- **Backend & APIs:** FastAPI, Node.js, Express.js, NestJS, GraphQL, REST APIs, WebSockets, Prisma ORM
+- **AI & Data:** LangGraph, RAG Architectures, ChromaDB, Sentence-Transformers, LLM Integration, Pandas, NumPy
+- **Frontend:** React, Next.js, React Native, Redux Toolkit, Tailwind CSS, HTML5/CSS3
+- **Databases & DevOps:** PostgreSQL, MongoDB, SQLite, Redis, Docker, Git, Linux, Vercel
 
 ---
 
-### ◈ ENGINEERING INTERESTS
+### 📫 Connect With Me
 
-#### Backend & APIs
-FastAPI · Node.js · NestJS · Express.js · Python · PostgreSQL · MongoDB · SQLite · GraphQL · Prisma ORM · REST APIs
-
-#### AI Systems & Agents
-LangGraph · RAG Pipelines · ChromaDB · Sentence-Transformers · Local Inference · LLM Tool Chains · Desktop Agents
-
-#### Web & Mobile Application
-React 19 · Next.js · TypeScript · React Native · Redux Toolkit · Vite · Socket.io · Tailwind CSS
-
-#### Infrastructure & Security
-Docker · JWT Auth · Row Level Security (RLS) · OAuth2 · Git · Vercel · CI/CD
-
----
-
-### ◈ LAB (EXPERIMENTS & LESSONS)
-
-* **`EXP-001` RAG Citation Grounding**: RAG retrieval can introduce hallucination noise. *Lesson*: Secondary SQLite metadata verification eliminates citation hallucination in domain-specific AI models.
-* **`EXP-002` Agent State Graphs**: Linear LLM chains struggle with multi-turn task dependencies. *Lesson*: Graph state machines (LangGraph) guarantee deterministic step execution across external tool integrations.
-* **`EXP-003` Socket vs Polling Networks**: Persistent WebSocket connections drop under mobile network switching. *Lesson*: Decoupling socket events from transactional REST queries optimizes reliability.
-
----
-
-### ◈ TRANSMISSION / CONTACT
-
-```bash
-PORTFOLIO : https://portfolio-ivory-one-6hmx89xc5f.vercel.app
-GITHUB    : https://github.com/HimanshuMNirmal
-LINKEDIN  : https://linkedin.com/in/himanshunirmal
-EMAIL     : nirmalhimanshu1505@gmail.com
-```
-
-<div align="center">
-
-*Designed & Engineered as a Software System by Himanshu Nirmal*
-
-</div>
+- 🌐 **Portfolio:** [portfolio-ivory-one-6hmx89xc5f.vercel.app](https://portfolio-ivory-one-6hmx89xc5f.vercel.app)
+- 💼 **LinkedIn:** [linkedin.com/in/himanshunirmal](https://linkedin.com/in/himanshunirmal)
+- ✉️ **Email:** [nirmalhimanshu1505@gmail.com](mailto:nirmalhimanshu1505@gmail.com)
+- 📍 **Location:** India
