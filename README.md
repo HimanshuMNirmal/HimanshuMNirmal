@@ -35,6 +35,7 @@
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
+| **[ResumeForge](https://github.com/HimanshuMNirmal/ResumeForge)** | Production AI resume tailoring engine with multi-LLM generation, encrypted vault, and automated AWS/Vercel CI/CD. | `FastAPI` `Next.js 15` `Docker` `AWS` `PostgreSQL` `Vercel` | [Live Demo ↗](https://resume-forged.vercel.app/) · [Repo →](https://github.com/HimanshuMNirmal/ResumeForge) |
 | **[HireOn](https://github.com/HimanshuMNirmal/hireon)** | AI interview evaluation platform with sub-500ms real-time turns and async scoring. | `FastAPI` `Python` `PostgreSQL` `React` `WebSockets` | [Repo →](https://github.com/HimanshuMNirmal/hireon) |
 | **[SupplyX](https://github.com/HimanshuMNirmal/SupplyXFinal.git)** | Enterprise multi-tenant supply chain engine with PostgreSQL Row-Level Security (RLS). | `NestJS` `GraphQL` `PostgreSQL` `Prisma` `React Native` | [Repo →](https://github.com/HimanshuMNirmal/SupplyXFinal.git) |
 | **[Orchestrix](https://github.com/HimanshuMNirmal/Orchestrix.git)** | Desktop Agent OS connecting Gmail, Slack, Notion & Jira with LangGraph state machines. | `LangGraph` `Python` `OAuth2` `REST APIs` | [Repo →](https://github.com/HimanshuMNirmal/Orchestrix.git) |
