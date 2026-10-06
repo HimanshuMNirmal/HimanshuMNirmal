@@ -57,7 +57,7 @@
 
 ### 📫 Connect With Me
 
-- 🌐 **Portfolio:** [portfolio-ivory-one-6hmx89xc5f.vercel.app](https://portfolio-ivory-one-6hmx89xc5f.vercel.app)
+- 🌐 **Portfolio:** [portfolio-ivory-one-6hmx89xc5f.vercel.app](https://resume-forged.vercel.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/himanshunirmal](https://linkedin.com/in/himanshunirmal)
 - ✉️ **Email:** [nirmalhimanshu1505@gmail.com](mailto:nirmalhimanshu1505@gmail.com)
 - 📍 **Location:** India
