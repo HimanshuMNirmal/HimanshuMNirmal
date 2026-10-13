@@ -5,7 +5,7 @@
 **Software Engineer · Backend / AI / Full Stack**  
 *Building resilient backend architectures, AI agent workflows, and responsive full-stack applications.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](himanshu-nirmal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-nirmal.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshunirmal)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalhimanshu1505@gmail.com)
 
@@ -18,7 +18,7 @@
 - 💼 **Currently:** Software Developer at **[JadeQuest Solutions](https://jadequest.com/)**
 - 🛠️ **Core Focus:** High-throughput backend systems (FastAPI, NestJS, Node.js), AI/LLM agent pipelines (LangGraph, RAG, ChromaDB), and scalable databases (PostgreSQL, MongoDB, Prisma).
 - 🚀 **Passionate about:** Decoupled event-driven architectures, clean APIs, and automating complex business workflows with AI.
-- 📄 **Resume:** [View / Download PDF](himanshu-nirmal.vercel.app/Himanshu_Nirmal.pdf)
+- 📄 **Resume:** [View / Download PDF](https://himanshu-nirmal.vercel.app/Himanshu_Nirmal.pdf)
 
 ---
 
@@ -57,7 +57,7 @@
 
 ### 📫 Connect With Me
 
-- 🌐 **Portfolio:** [portfolio-ivory-one-6hmx89xc5f.vercel.app](https://resume-forged.vercel.app/)
+- 🌐 **Portfolio:** [himanshu-nirmal.vercel.app](https://himanshu-nirmal.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/himanshunirmal](https://linkedin.com/in/himanshunirmal)
 - ✉️ **Email:** [nirmalhimanshu1505@gmail.com](mailto:nirmalhimanshu1505@gmail.com)
 - 📍 **Location:** India
