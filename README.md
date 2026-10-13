@@ -39,7 +39,7 @@
 | **[PhonePilot](https://github.com/HimanshuMNirmal/PhonePilot.git)** | Autonomous Android agent operating device UI via natural-language instructions, AccessibilityService, and vision models. | `Kotlin` `Android SDK` `AccessibilityService` `LLMs` `Vision` | [Repo →](https://github.com/HimanshuMNirmal/PhonePilot.git) |
 | **[SupplyX](https://github.com/HimanshuMNirmal/SupplyXFinal.git)** | Enterprise multi-tenant supply chain engine with PostgreSQL Row-Level Security (RLS). | `NestJS` `GraphQL` `PostgreSQL` `Prisma` `React Native` | [Repo →](https://github.com/HimanshuMNirmal/SupplyXFinal.git) |
 | **[Orchestrix](https://github.com/HimanshuMNirmal/Orchestrix.git)** | Desktop Agent OS connecting Gmail, Slack, Notion & Jira with LangGraph state machines. | `LangGraph` `Python` `OAuth2` `REST APIs` | [Repo →](https://github.com/HimanshuMNirmal/Orchestrix.git) |
-| **[XAUUSD ETL](https://github.com/HimanshuMNirmal)** | High-throughput financial ETL pipeline processing ticks into OHLCV bars with automated backfills. | `Python` `Pandas` `PostgreSQL` `Docker` `ETL` | [Profile →](https://github.com/HimanshuMNirmal) |
+| **[XAUUSD ETL]([https://github.com/HimanshuMNirmal](https://github.com/HimanshuMNirmal/XAUUSD-ETL))** | High-throughput financial ETL pipeline processing ticks into OHLCV bars with automated backfills. | `Python` `Pandas` `PostgreSQL` `Docker` `ETL` | [Repo →]([https://github.com/HimanshuMNirmal](https://github.com/HimanshuMNirmal/XAUUSD-ETL)) |
 | **[DevConnect](https://github.com/HimanshuMNirmal/DevConnect.git)** | Developer community platform with real-time Socket.io chat, posts, and discussion threads. | `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.io` | [Repo →](https://github.com/HimanshuMNirmal/DevConnect.git) |
 
 
