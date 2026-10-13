@@ -2,15 +2,15 @@
 
 # Hi, I'm Himanshu Nirmal 👋
 
-**Software Engineer · Backend / AI / Full Stack**  
+**Software Engineer · Backend / AI / Full Stack**
+
 *Building resilient backend architectures, AI agent workflows, and responsive full-stack applications.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-nirmal.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshunirmal)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalhimanshu1505@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://himanshu-nirmal.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshunirmal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalhimanshu1505@gmail.com)
 
 </div>
-
 ---
 
 ### 👨‍💻 About Me
