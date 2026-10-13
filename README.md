@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Himanshu Nirmal 👋
-
 **Software Engineer · Backend / AI / Full Stack**
 
 *Building resilient backend architectures, AI agent workflows, and responsive full-stack applications.*
@@ -11,6 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmalhimanshu1505@gmail.com)
 
 </div>
+
 ---
 
 ### 👨‍💻 About Me
