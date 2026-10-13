@@ -36,12 +36,12 @@
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :--- |
 | **[ResumeForge](https://github.com/HimanshuMNirmal/ResumeForge)** | Production AI resume tailoring engine with multi-LLM generation, encrypted vault, and automated AWS/Vercel CI/CD. | `FastAPI` `Next.js 15` `Docker` `AWS` `PostgreSQL` `Vercel` | [Live Demo ↗](https://resume-forged.vercel.app/) · [Repo →](https://github.com/HimanshuMNirmal/ResumeForge) |
-| **[HireOn](https://github.com/HimanshuMNirmal/hireon)** | AI interview evaluation platform with sub-500ms real-time turns and async scoring. | `FastAPI` `Python` `PostgreSQL` `React` `WebSockets` | [Repo →](https://github.com/HimanshuMNirmal/hireon) |
+| **[PhonePilot](https://github.com/HimanshuMNirmal/PhonePilot.git)** | Autonomous Android agent operating device UI via natural-language instructions, AccessibilityService, and vision models. | `Kotlin` `Android SDK` `AccessibilityService` `LLMs` `Vision` | [Repo →](https://github.com/HimanshuMNirmal/PhonePilot.git) |
 | **[SupplyX](https://github.com/HimanshuMNirmal/SupplyXFinal.git)** | Enterprise multi-tenant supply chain engine with PostgreSQL Row-Level Security (RLS). | `NestJS` `GraphQL` `PostgreSQL` `Prisma` `React Native` | [Repo →](https://github.com/HimanshuMNirmal/SupplyXFinal.git) |
 | **[Orchestrix](https://github.com/HimanshuMNirmal/Orchestrix.git)** | Desktop Agent OS connecting Gmail, Slack, Notion & Jira with LangGraph state machines. | `LangGraph` `Python` `OAuth2` `REST APIs` | [Repo →](https://github.com/HimanshuMNirmal/Orchestrix.git) |
-| **[NyayGPT](https://github.com/HimanshuMNirmal/NyayGPT.git)** | AI legal assistant & statutory RAG engine across 1,968 sections of Indian legal acts. | `FastAPI` `ChromaDB` `Sentence-Transformers` `React` | [Repo →](https://github.com/HimanshuMNirmal/NyayGPT.git) |
 | **[XAUUSD ETL](https://github.com/HimanshuMNirmal)** | High-throughput financial ETL pipeline processing ticks into OHLCV bars with automated backfills. | `Python` `Pandas` `PostgreSQL` `Docker` `ETL` | [Profile →](https://github.com/HimanshuMNirmal) |
 | **[DevConnect](https://github.com/HimanshuMNirmal/DevConnect.git)** | Developer community platform with real-time Socket.io chat, posts, and discussion threads. | `Node.js` `Express` `PostgreSQL` `Prisma` `Socket.io` | [Repo →](https://github.com/HimanshuMNirmal/DevConnect.git) |
+
 
 ---
 
